@@ -1,0 +1,127 @@
+header {
+  color: #BCBCBC;
+  background-color: #00A85C;
+  text-align: center;
+  font-size: 96px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+#homeknop {
+font-family: arial;
+font-size: 24px;
+font-weight: bold;
+padding-left: 1%;
+}
+
+nav {
+  color: #A0A0A0;
+  background-color: #007F46;
+  font-family: arial;
+  font-size: 12px;
+  font-weight: bold;
+  width: 100%;
+}
+
+a.navbar {
+  margin-left: 15%
+}
+
+a:visited {
+  color: #A0A0A0;
+  font-family: arial;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:link {
+  color: #A0A0A0;
+  font-family: arial;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+body {
+  background-color: #006336;
+  margin: auto;
+}
+
+h1 {
+  font-family: arial;
+  font-weight: bold;
+  color: #A0A0A0;
+  text-align: center;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: arial;
+  font-weight: bold;
+  color: #A0A0A0;
+  font-size: 28px;
+  }
+
+p {
+    font-family: arial;
+    color: #A0A0A0;
+    font-size: 16px;
+  }
+
+img {
+  height: auto;
+  margin: 2%;
+}
+
+#bob {
+  float: right;
+  width: 30%;
+  margin-top: auto;
+}
+
+#arpa {
+  float: none;
+  width: 80%;
+}
+
+#alan {
+  float: right;
+  width: 30%;
+  margin-top: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0%;
+  padding: 0%;
+  background-color: gray;
+}
+
+aside {
+  margin-top: 1%;
+  position: fixed;
+  right: 0%;
+  width: 23%;
+}
+
+li a.sidebar {
+  display: block;
+  padding: 4%;
+}
+
+li a.sidebar:hover {
+  background-color: #666666;
+}
+
+div{
+  background-color: #EAEAEA;
+  float: left;
+  width: 70%;
+  margin-top: 1%;
+  padding: 3%;
+}
+
+.feedback{
+	margin-bottom:0;
+}
